@@ -8,7 +8,7 @@ $\color{#FFC2CD}\ Life$ $\color{#FF93AC}\ Protects$ $\color{#FF6289}\ Life$ $\co
 
 $\color{#FFC2CD}\ cudd$ $\color{#FF93AC}\ freely,$ $\color{#FF6289}\ i$ $\color{#FC3468}\ love$ $\color{#FF084A}\ making$ $\color{#FC3468}\ friends$
 
-$$\color{#FFC2CD}\small \text {i have offensice humour and say slurs i can reclaim, if you dont like this id suggest you dont interact with me}$$
+$$\color{#FFC2CD}\small \text {i have offensive humour and say slurs i can reclaim, if you dont like this id suggest you dont interact with me}$$
 
 $$\color{#FF93AC}\small \text {my battletag is arches4men 2468 if you wish to add me}$$
 
