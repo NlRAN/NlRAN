@@ -12,7 +12,9 @@ $$\color{#FFC2CD}\small \text {i have offensive humour and say slurs i can recla
 
 $$\color{#FF93AC}\small \text {my battletag is arches4men 2468 if you wish to add me}$$
 
-$$\color{#FF6289}\small \text {i am 18, so under 15 dont interact or i will block}$$
+$$\color{#FF6289}\small \text {i am a Weaver main of 3 years}$$
+
+$$\color{#FC3468}\small \text {i am 18, so under 15 dont interact or i will block}$$
 
 <img width="500" height="500" alt="image" src=https://github.com/NlRAN/NlRAN/blob/e9363b428245f9cb88868294c52482ef9b49dd6e/IMG_4448.webp />
 
