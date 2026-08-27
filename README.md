@@ -1,19 +1,3 @@
-$\color{}\ $
-
-<img width="1110" height="215" alt="image" src= />
-
-light to dark
-
-#FFC2CD 1
-
-#FF93AC 2
-
-#FF6289 3
-
-#FC3468 4
-
-#FF084A 5
-
 <div align=center />
 
 $\color{#FFC2CD}\ Life$ $\color{#FF93AC}\ Protects$ $\color{#FF6289}\ Life$ $\color{#FC3468}\ !$
@@ -29,3 +13,12 @@ $$\color{#FFC2CD}\small \text {i have offensice humour and say slurs i can recla
 $$\color{#FF93AC}\small \text {my battletag is arches4men 2468 if you wish to add me}$$
 
 $$\color{#FF6289}\small \text {i am 18, so under 15 dont interact or i will block}$$
+
+<img width="500" height="500" alt="image" src=https://github.com/NlRAN/NlRAN/blob/e9363b428245f9cb88868294c52482ef9b49dd6e/IMG_4448.webp />
+
+
+$$\color{#FC3468}\small \text {i can be found near the marvel or hoyoverse area, as it is where i sit most. and the deltarune area on 18+ servers}$$
+
+$$\color{#FF6289}\small \text {i am afk almost all the time so i do apologise if i dont reply}$$
+
+<img width="700" height="700" alt="image" src=https://github.com/NlRAN/NlRAN/blob/b886a5c7f772c98ffc6d06e41a23fc2635a50018/IMG_4457.webp />
